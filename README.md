@@ -5,7 +5,7 @@ After creating a sandbox environment run the contents of this initialization scr
 tables and schemas for this course.
 <details><summary>Initialization Script</summary>
 https://github.com/abg0148/SQL/blob/97e6b91779de4799f7274636fbfcab5f8e9a4474/initialization_script.sql#L1C1-L1C1
-</details>details>
+</details>
 
 Check if the setup is correct, by running the following query:
 ```SQL
